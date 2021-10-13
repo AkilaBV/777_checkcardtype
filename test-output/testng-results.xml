@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-12T22:47:03 CDT" name="Default suite" finished-at="2021-10-12T22:47:03 CDT" duration-ms="55">
+    <groups>
+    </groups>
+    <test started-at="2021-10-12T22:47:03 CDT" name="Default test" finished-at="2021-10-12T22:47:03 CDT" duration-ms="55">
+      <class name="CheckcardType.CheckcardTypeVORM">
+        <test-method signature="testMaster()[pri:0, instance:CheckcardType.CheckcardTypeVORM@197d671]" started-at="2021-10-12T22:47:03 CDT" name="testMaster" finished-at="2021-10-12T22:47:03 CDT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMaster -->
+        <test-method signature="testVisa()[pri:0, instance:CheckcardType.CheckcardTypeVORM@197d671]" started-at="2021-10-12T22:47:03 CDT" name="testVisa" finished-at="2021-10-12T22:47:03 CDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVisa -->
+      </class> <!-- CheckcardType.CheckcardTypeVORM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
